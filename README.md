@@ -20,7 +20,7 @@ The csv files contain the next columns
 taken from [autonomous vehicle](https://sawhney-prateek97.medium.com/autonomous-vehicle-architecture-b802f30283fa)
 
 
-# Interaction Between Modules
+# Interaction Between Subsystems
 
 ```mermaid
 sequenceDiagram
